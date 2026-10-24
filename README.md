@@ -4,7 +4,6 @@ Draw a flowchart, binary tree or state diagram on paper. Take a photo. Get code 
 
 CodeDoodle sends the photo to **Gemma 4** (through the Gemini API) and gets back a Python or C++ program that implements the diagram, an example trace, and a list of anything it had to guess. You can edit the code, run it in the browser, and step through the trace one diagram element at a time. The whole website is a single Streamlit script.
 
-![Sample sketch](samples/even_or_odd.png)
 
 ## How it works
 
